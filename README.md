@@ -1,2 +1,2 @@
 # Formality_Project
-repo to host results for collaborators
+Simple Github Repository to host results markdown files for collaborators.
