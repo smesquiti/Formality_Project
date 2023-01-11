@@ -4,6 +4,9 @@ navbar:
   title: "Formality Project Results"                             # CHANGE HERE 
   type: inverse
   right:
+    - text: "Home"
+      icon: fa-user 
+      href: README.md
     - text: "Best-sellers Parts of Speech Analyses"
       icon: fa-user
       href: Formality_markdown.html
