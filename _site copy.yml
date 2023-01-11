@@ -6,13 +6,13 @@ navbar:
   right:
     - text: "Home"
       icon: fa-user 
-      href: README.md
+      href: formality_about.html
     - text: "Best-sellers Parts of Speech Analyses"
       icon: fa-user
-      href: Formality_markdown.html
+      href: Formality_Markdown.html
     - text: "Atlantic Parts of Speech Analyses"
       icon: fa-user
-      href: Atlantic_markdown.html
+      href: Atlantic_Markdown.html
     - text: "Best-sellers Flesch-Kincaid Analyses"
       icon: fa-user
       href: Books-FK.html
