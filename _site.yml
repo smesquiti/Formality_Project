@@ -1,0 +1,17 @@
+name: "Formality Project Results"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Formality Project Results"                             # CHANGE HERE 
+  type: inverse
+  right:
+    - text: "Best-sellers Parts of Speech Analyses"
+      href: Formality_markdown.html
+    - text: "Atlantic Parts of Speech Analyses"
+      href: Atlantic_markdown.html
+    - text: "Best-sellers Flesch-Kincaid Analyses"
+      href: Books-FK.html
+    - text: "Atlantic Flesch-Kincaid Analyses"
+      href: Atlantic_FK.html                    # CHANGE HERE
+output:
+  html_document:
+    theme: united
