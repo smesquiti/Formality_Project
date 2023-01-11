@@ -5,12 +5,16 @@ navbar:
   type: inverse
   right:
     - text: "Best-sellers Parts of Speech Analyses"
+      icon: fa-user
       href: Formality_markdown.html
     - text: "Atlantic Parts of Speech Analyses"
+      icon: fa-user
       href: Atlantic_markdown.html
     - text: "Best-sellers Flesch-Kincaid Analyses"
+      icon: fa-user
       href: Books-FK.html
     - text: "Atlantic Flesch-Kincaid Analyses"
+      icon: fa-user
       href: Atlantic_FK.html                    # CHANGE HERE
 output:
   html_document:
